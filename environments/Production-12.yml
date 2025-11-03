@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "12"
+mappingDefinitions:
+  SRC:
+    database: CHAVHAN
+    schema: WORKDEV
+  TARGET:
+    database: CHAVHAN
+    schema: WORKDEV
+name: Production
+type: Environment
